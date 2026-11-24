@@ -1,0 +1,10 @@
+{
+  "id": "matn.ext.scroller",
+  "name": "Smooth Vector Scrollbar",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Smooth interactive vector scrollbar with diagnostics overview markers",
+  "category": "editor",
+  "type": "plugin",
+  "repository": "https://github.com/matn-extensions/ext-scroller"
+}
